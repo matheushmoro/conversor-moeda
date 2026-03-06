@@ -9,19 +9,20 @@
 
 body {
     min-height: 100vh;
-    background: linear-gradient(15deg, #000000 0%, #07004b 100%);
+    background: linear-gradient(320deg, #000000 50%, #114e2d 100%);
 }
 
 .coingif {
     width: 300px;
     display: block;
     margin: 0px auto;
+    color: rgba(54, 176, 111, 1);
 }
 
 main {
     width: 500px;
     margin: 0 auto 40px;
-    background: linear-gradient(100deg, rgba(255, 238, 0, 0.808) 0%, rgba(114, 116, 0, 0.438) 100%);
+    background: linear-gradient(140deg,rgba(11, 23, 16, 0.4) 20%, rgba(54, 176, 111, 0.6) 100%); 
     border-radius: 20px;
     padding: 44px 24px 23px;
     border:1px solid #bbbbbb;
@@ -148,7 +149,7 @@ div {
         padding: 20px 14px 12px;
         position: relative;
         z-index: 1;
-        background: linear-gradient(100deg, rgba(255, 238, 0, 0.45) 0%, rgba(114, 116, 0, 0.22) 100%);
+        background: linear-gradient(140deg,rgba(11, 23, 16, 0.4) 20%, rgba(54, 176, 111, 0.6) 100%); 
     }
 
     label {
